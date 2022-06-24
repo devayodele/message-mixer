@@ -2,7 +2,9 @@
 
 ---
 
-### Message Mixer Inc. offers a message-encryption service that transforms input text, using various ciphers, and displays the encrypted message to the console.
+### Message Mixer Inc. offers a message-encryption service that transforms input text, using various ciphers, and displays the encrypted message to the console This was accomplished with the use of Node.js require() and module.exports syntax.
+
+
 
 ---
 
